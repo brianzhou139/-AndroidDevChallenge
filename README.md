@@ -20,9 +20,7 @@ We are in the Development phase currently and so far we have implemented object 
 * Open App Directory
 * Or alternatively see this link (https://github.com/brianzhou139/HomeNavigation)
 
-
-
-Plan and Timeline for Home Navigation.
+## Plan and Timeline for Home Navigation.
 
 December 2019: 
 * Implement  object recognition using Auto AutoML Vision Edge
@@ -46,7 +44,7 @@ April 2020 :
 May 2020 :
 * Release at Google IO 
 
-How can Google help us.
+## How can Google help us.
 * Help us to squeeze every bit of performance for object detection on-device
 * Access to https://cloud.google.com/tpu/ to train models
 * Help us build ML pipeline for model training for person recognition
