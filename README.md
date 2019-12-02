@@ -22,26 +22,26 @@ We are in the Development phase currently and so far we have implemented object 
 
 ## Plan and Timeline for Home Navigation.
 
-December 2019: 
+### December 2019: 
 * Implement  object recognition using Auto AutoML Vision Edge
 * Create UI/UX prototype.
 * Soft releases for Friends and Family.
 
-January 2020:
+### January 2020:
 * Enhance recognition flow performance and accuracy
 * Implement Face Identification 
 
-February 2020 :
+### February 2020 :
 * Finish Android Native User Interface.
 * Support Hybrid Version for IOS .
 
-March 2020 :
+### March 2020 :
 * Testing and Deployment
 
-April 2020 :
+### April 2020 :
 * Soft releases in local communities and adding patches
 
-May 2020 :
+### May 2020 :
 * Release at Google IO 
 
 ## How can Google help us.
