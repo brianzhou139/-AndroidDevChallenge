@@ -47,9 +47,9 @@ May 2020 :
 * Release at Google IO 
 
 How can Google help us.
-    1.Help us to squeeze every bit of performance for object detection on-device
-    2.Access to https://cloud.google.com/tpu/ to train models
-    3.Help us build ML pipeline for model training for person recognition
+* Help us to squeeze every bit of performance for object detection on-device
+* Access to https://cloud.google.com/tpu/ to train models
+* Help us build ML pipeline for model training for person recognition
 
 ## About Me 
 My name is Brian Zhou. I'm a passionate android developer.I love code challenges.I recently participated in the IEEMADC Mobile App developement contest and this was my submission( https://ieeemadc.github.io/IEEEmadC-wiki/BookShoot).I have worked on various android projects(https://github.com/brianzhou139). 
