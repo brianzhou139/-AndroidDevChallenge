@@ -451,7 +451,7 @@ class CameraFragment : Fragment(), TextToSpeech.OnInitListener {
                             val confidence = label.confidence
                             val toSpeak="There is a "+ text + " in front of you"
                             Toast.makeText(activity,toSpeak,Toast.LENGTH_SHORT).show()
-                            //mTTS.speak(toSpeak, TextToSpeech.QUEUE_FLUSH, null)
+                            mTTS.speak(toSpeak, TextToSpeech.QUEUE_FLUSH, null)
                         }
 
                     }
