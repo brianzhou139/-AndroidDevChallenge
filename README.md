@@ -14,7 +14,7 @@ A sighted user provides photos to the app and a name for each Object/face to ass
 The app will be  called via speech from Google assistant  tools to make it easier  for the blind to access its functionalities
 
 ## Bringing it to life.
-Where the project is now.
+###### Where the project is now.
 We are in the Development phase currently and so far we have implemented object recognition in the house, the app maps objects in real time and speaks about them.The model used is for testing purposes as of now.
 
 ## Sample Code Already Written 
